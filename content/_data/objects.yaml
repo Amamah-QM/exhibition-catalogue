@@ -8,23 +8,23 @@ object_display_order:
 object_list:
 
   - id: 1
-    title: Human Erosion in California / Migrant Mother
-    artist: Dorothea Lange
-    year: 1936
-    medium: Gelatin silver print
-    dimensions: 34.1 cm × 26.8 cm (13 <sup>7</sup>⁄<sub>16</sub> in × 10 <sup>9</sup>⁄<sub>16</sub> in.)
-    location: J. Paul Getty Museum
+    title:  يقدم متحف لوسيل مجموعة عالمية من لوحات الفن الاستشراقي
+    artist: Jean-Léon Gérôme 
+    year: 1888
+    medium: زيت على قماش
+    dimensions: 61.2 × 50.8 cm (13 <sup>7</sup>⁄<sub>16</sub> in × 10 <sup>9</sup>⁄<sub>16</sub> in.)
+    location: متحف لوسيل
     link:  https://www.getty.edu/art/collection/object/108E2E
     figure:
       - id: "cat-1"
 
   - id: 2
-    title: Bud Fields and His Wife Ivy, and His Daughter Ellen, Hale County, Alabama
-    artist: Walker Evans
-    year: 1936
-    medium: Gelatin silver print
-    dimensions: 19.4 x 24.4 (7 <sup>5</sup>⁄<sub>8</sub> x 9 <sup>5</sup>⁄<sub>8</sub> in.)
-    location: J. Paul Getty Museum
+    title: Arab Horseman at the Gallop; The Sphinx and the Great Pyramid of Giza; and An Arms Dealer in Cairo
+    artist: Eugène Delacroix; Louis-François Cassas; and Jean-Léon Gérôme
+    year: 1849; 1798; and 1869
+    medium: oil on canvas; watercolour over an etched outline; and oil on panel
+    dimensions: 55.9 x 44.8 cm; 54 x 45.1 cm; and 52.5 x 77 cm 
+    location: Lusail Museum
     link: https://www.getty.edu/art/collection/object/104A2K
     figure:
       - id: "cat-2"

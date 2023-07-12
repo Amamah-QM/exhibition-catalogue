@@ -1,0 +1,61 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "http://localhost:8080//iiif\\mother-variants/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Figure 1.1"
+    ]
+  },
+  "items": [
+    {
+      "id": "http://localhost:8080//iiif\\mother-variants/canvas",
+      "type": "Canvas",
+      "height": 878,
+      "width": 698,
+      "items": [
+        {
+          "id": "http://localhost:8080//iiif\\mother-variants/canvas/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:8080//iiif\\mother-variants/canvas/choices",
+              "motivation": "painting",
+              "target": "http://localhost:8080//iiif\\mother-variants/canvas",
+              "type": "Annotation",
+              "body": {
+                "type": "Choice",
+                "items": [
+                  {
+                    "id": "http://localhost:8080/iiif/mother-variants/img2.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 878,
+                    "width": 698,
+                    "label": {
+                      "en": [
+                        "Variant #1"
+                      ]
+                    }
+                  },
+                  {
+                    "id": "http://localhost:8080/iiif/mother-variants/lm.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 878,
+                    "width": 698,
+                    "label": {
+                      "en": [
+                        "Variant #2"
+                      ]
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
